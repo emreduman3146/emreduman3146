@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-<img src="gorsel-link" width="auto">
+<img src="[gorsel-link](https://raw.githubusercontent.com/emreduman3146/emreduman3146/main/BTW_Background.jpg)" width="auto">
 
 
  <div id="badges" align="center">
