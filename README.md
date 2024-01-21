@@ -1,6 +1,9 @@
 <!-- ### Hi there 👋 -->
 
-<img src="[gorsel-link](https://raw.githubusercontent.com/emreduman3146/emreduman3146/main/BTW_Background.jpg)" width="auto">
+<div align="center">
+ <img src="https://github.com/emreduman3146/emreduman3146/blob/main/BTW_Background.jpg" width="60%" height="60%" >
+</div>
+
 
 
  <div id="badges" align="center">
@@ -17,11 +20,7 @@
      Hi, I'm Beyond The WISDOM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<!--
-**emreduman3146/emreduman3146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+###  About Me :
 
 
 - 🔭 I’m currently working on a Devops Project 
@@ -39,6 +38,17 @@ Here are some ideas to get you started:
 ###  My Stats :
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=emreduman3146&show_icons=true&theme=radical)
+
+---
+
+###  Languages and Tools :
+
+<div>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
 
 ---
 
