@@ -1,5 +1,8 @@
 <!-- ### Hi there 👋 -->
 
+<img src="gorsel-link" width="auto">
+
+
  <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/emredumann/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" >
@@ -21,8 +24,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on a Devops Project 
+- 🌱 I’m currently learning CI/CD and AWS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -30,10 +33,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=emreduman3146&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=emreduman3146&show_icons=true&theme=gradient) 
+-->
+###  My Stats :
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emreduman3146&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=emreduman3146&show_icons=true&theme=radical)
 
+---
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
