@@ -33,12 +33,12 @@
 - ⚡ Fun fact: ...
 
 <!--
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=emreduman3146&show_icons=true&theme=gradient) 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=emreduman3146&show_icons=true&theme=gradient) radical
 -->
 ###  My Stats :
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=emreduman3146&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emryduman&theme=radical&border_radius=50&border=8DB63F&background=000000&ring=6E9EF1&stroke=63DD51&fire=D00808)](https://git.io/streak-stats)
+![BTW 's GitHub stats](https://github-readme-stats-r5-3600.vercel.app/api?username=emreduman3146&include_all_commits=true&count_private=true&show_icons=true&theme=radical&border_radius=50)
+
 
 ---
 
