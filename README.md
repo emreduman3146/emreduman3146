@@ -76,6 +76,13 @@ I am a Full Stack Software QA Engineer
 ###  My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emryduman&theme=radical&border_radius=50&border=8DB63F&background=000000&ring=6E9EF1&stroke=63DD51&fire=D00808)](https://git.io/streak-stats)
 
+
+---
+
+###  My Contributions :
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+
+
 <!--
 ###  My Stats :
 
